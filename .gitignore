@@ -31,3 +31,6 @@ output*
 
 # Nicegui
 .nicegui
+
+temp_3d_output/
+temp_svg_output/
